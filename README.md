@@ -10,8 +10,40 @@ This Privacy Notice for ("we," " us," or "our"), describes how and why we might 
 
   Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services.
 
-  SUMMARY OF KEY POINTS
 
-  This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our below to find the section you are looking for.
 
-  Do we process any sensitive personal information? Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
+SUMMARY OF KEY POINTS
+
+ This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our below to find the section you are looking for.
+
+What personal information do we process?  When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about 
+
+
+Do we process any sensitive personal information? Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
+
+Do we collect any information from third parties? We do not collect any information from third parties.
+
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about
+
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific
+
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about
+
+
+
+
+Your Rights
+
+  You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
+
+Right to know whether or not we are processing your personal data
+
+Right to correct inaccuracies in your personal data
+
+Right to request the deletion of your personal data
+
+Right to obtain a copy of the personal data you previously shared with us
+
+Right to non-discrimination for exercising your rights
+
+Right to opt out  of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
