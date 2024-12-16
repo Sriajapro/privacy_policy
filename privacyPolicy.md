@@ -2,7 +2,7 @@ PRIVACY POLICY
 
 Last updated October 22, 2024
 
-This Privacy Notice for ("we," " us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+This Privacy Notice for ("we," " us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 
 * Download and use our mobile application (PantryPlus), or any other application of ours that links to this Privacy Notice
 * Use PantryPlus.PantryPlus is your all-in-one grocery assistant! Simply snap a photo of your grocery receipt, and the app will automatically scan and analyze your purchases. Track your spending, get detailed insights into the products you've bought, and discover new recipes based on the items in your pantry. With a built-in barcode scanner, PantryPlus makes it easy to scan individual products and get instant information. Whether you're looking to manage your grocery budget, find recipe inspiration, or stay organized, PantryPlus has you covered!
